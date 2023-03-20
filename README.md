@@ -1,11 +1,11 @@
 ### Olá, me chamo Dyego Melo 👋
 
 
-- 📗 Atualmente estou cursando 3°sem em ADS.
+- 📗 Atualmente estou cursando 4°sem em ADS.
 - 🌱 Front-End.
-- 💬 Possuo conhecimento em JavaScript,Html,Css.
-- 📫 Apronfudando meus conhecimentos em React-Native.
-- ⚡ Pretendo me especializar em React.Js futuramente.
+- 💬 Possuo conhecimento em JavaScript,Html,Css,React Native, React Js, mySql.
+- 📫 Apronfudando meus conhecimentos em ReactJs.
+- ⚡ Pretendo me especializar em mySql futuramente.
 
 <div>
 <a href ="https://github.com/dyegomelo">
